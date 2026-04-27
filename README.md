@@ -1,5 +1,5 @@
 UNİT AUDİO PLAYER V6.0 DJ EDİTİON
-
+‼️Run the bin file with M5Launcher‼️
 
 M5Stack Cardputer – Audio Player Firmware
 This project is a custom audio player firmware designed for the M5Stack Cardputer. It provides a retro‑style music visualizer, track information display, and control interface.
