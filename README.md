@@ -42,11 +42,9 @@ The audio player UI starts automatically on boot.
 
 On-screen controls:
 
-A: Volume
++/-: Volume
 
-B: Goto / Track select
-
-Y: Visualizer
+G: Goto / Track select
 
 I: Info
 
