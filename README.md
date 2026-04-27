@@ -52,5 +52,5 @@ Play/Pause can be controlled via the top buttons.
 📸 Screenshot
 The firmware features a colorful retro‑style music player interface with a circular visualizer.
 
-<img width="1200" height="1600" alt="Firmware" src="https://github.com/user-attachments/assets/144ca5de-08e0-4ebf-8718-3777943219ef" />
+<img width="300" height="1600" alt="Firmware" src="https://github.com/user-attachments/assets/144ca5de-08e0-4ebf-8718-3777943219ef" />
 
